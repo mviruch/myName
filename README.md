@@ -1,2 +1,2 @@
 # myName
-Get a unique name
+Get a name
